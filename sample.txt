@@ -10,3 +10,6 @@ asdla
 kaflka
 lakfla
 
+
+dev -3 
+from ec2-instance
